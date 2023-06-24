@@ -1,5 +1,7 @@
 # Vídeo rodando em background com texto centralizado
 
+OBS: Para pausar/play basta clicar sobre qualquer lugar na tela
+
 # Conceitos importantes tratados nesse projeto:
 
 - document.querySelector()
