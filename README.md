@@ -9,3 +9,5 @@
 - classList.remove()
 - play()
 - pause()
+
+Live demo: https://background-video-psi.vercel.app/
